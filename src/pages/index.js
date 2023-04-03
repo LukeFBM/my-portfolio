@@ -222,6 +222,20 @@ const Home = () => {
             image4=""
             image5=""
           />
+
+          <ProjectCard
+            link="https://github.com/LukeFBM/to-do-app"
+            image0="todo.png"
+            title="To-do App"
+            description="A basic and simple To-do react app. This project helped a lot 
+            in the understanding of the most important functions of React, the use of States, props, and functionalities. 
+            "
+            image1="html.svg"
+            image2="css.svg"
+            image3="javascript.svg"
+            image4="react.svg"
+            image5="node-js.svg"
+          />
         </div>
       </div>
 
